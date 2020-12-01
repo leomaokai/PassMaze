@@ -30,7 +30,8 @@ void maze::run()
 	initmaze();
 	setmaze();
 	if (mode == 1)
-		bfspass();
+		//dfspass();//深度优先
+		bfspass();//广度优先最短路径
 	else
 		return;
 	while (1)
