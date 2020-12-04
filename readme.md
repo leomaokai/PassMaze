@@ -10,7 +10,7 @@
 
 开发工具:   Visual Studio 2019
 
-源码地址: [leomaokai/PassMaze](https://github.com/leomaokai/MyCpp)(未改)
+源码地址: [leomaokai/PassMaze](https://github.com/leomaokai/PassMaze)
 
 ## 功能要求
 
